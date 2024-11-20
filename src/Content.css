@@ -1,0 +1,40 @@
+.content-section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .content-section h1 {
+    font-size: 36px;
+    color: #1e3a8a;
+  }
+  
+  .content-section p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .explore-button,
+  .learn-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .explore-button {
+    background-color: #1e3a8a;
+    color: white;
+  }
+  
+  .learn-button {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  

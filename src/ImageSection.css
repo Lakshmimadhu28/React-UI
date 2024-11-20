@@ -1,0 +1,11 @@
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-section img {
+    max-width: 80%;
+    border-radius: 8px;
+  }
+  
